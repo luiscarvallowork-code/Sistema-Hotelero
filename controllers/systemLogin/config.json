@@ -1,0 +1,6 @@
+{
+    "urlHome": "controllers/router.php?code=home", 
+    "urlLogin": "controllers/router.php?code=login", 
+    "urlRegister": "controllers/router.php?code=register", 
+    "urlStar": "controllers/router.php?code=home"
+}
